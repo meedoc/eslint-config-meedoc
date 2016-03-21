@@ -23,6 +23,9 @@
   },
   "homepage": "https://github.com/meedoc/eslint-config-meedoc#readme",
   "devDependencies": {
-    "eslint": "2.4.0"
+    "eslint": "^2.4.0"
+  },
+  "peerDependencies": {
+    "eslint": "^2.4.0"
   }
 }
