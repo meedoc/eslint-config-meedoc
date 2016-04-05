@@ -3,6 +3,7 @@
 module.exports = {
   rules: {
     'block-spacing': [2, 'always'],
+    'comma-spacing': [2, {'before': false, 'after': true}],
     'comma-style': [2, 'last'],
     'curly': 2,
     'eqeqeq': 2,
@@ -13,7 +14,6 @@ module.exports = {
     'no-eval': 2,
     'no-lone-blocks': 2,
     'no-lonely-if': 2,
-    'comma-spacing': [2, {'before': false, 'after': true}],
     'no-trailing-spaces': 2,
     'no-undefined': 2,
     'no-unused-vars': [2, { 'args': 'none' }],
