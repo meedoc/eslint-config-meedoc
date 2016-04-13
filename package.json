@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-meedoc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared eslint rules for MeeDoc js applications.",
   "main": "index.js",
   "scripts": {

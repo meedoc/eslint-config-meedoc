@@ -14,6 +14,7 @@ module.exports = {
     'no-eval': 2,
     'no-lone-blocks': 2,
     'no-lonely-if': 2,
+    'space-infix-ops': ['error', {'int32Hint': false}],
     'no-trailing-spaces': 2,
     'no-undefined': 2,
     'no-unused-vars': [2, { 'args': 'none' }],
