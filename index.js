@@ -3,6 +3,7 @@
 module.exports = {
   rules: {
     'block-spacing': [2, 'always'],
+    'brace-style': [2, "1tbs"],
     'comma-spacing': [2, {'before': false, 'after': true}],
     'comma-style': [2, 'last'],
     'curly': 2,
